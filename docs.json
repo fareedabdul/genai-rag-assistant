@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Password Reset",
+    "content": "Users can reset their password by going to Settings, then Security, and clicking Reset Password."
+  },
+  {
+    "title": "Account Creation",
+    "content": "Users can create an account by clicking Sign Up and entering their email and password."
+  },
+  {
+    "title": "Two Factor Authentication",
+    "content": "Two factor authentication can be enabled in the security settings page."
+  },
+  {
+    "title": "Profile Update",
+    "content": "Users can update their name, email, and profile picture from the profile settings page."
+  },
+  {
+    "title": "Delete Account",
+    "content": "Users can delete their account permanently from Settings under account management."
+  }
+]
